@@ -1,0 +1,12 @@
+.r{
+    font-size:small!important;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: 'Castoro Titling';
+}
+.t{
+    text-transform: capitalize;
+}
